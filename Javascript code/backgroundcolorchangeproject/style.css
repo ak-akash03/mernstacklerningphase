@@ -1,0 +1,26 @@
+.container{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.changecolorclass{
+    /* background-color: red; */
+    height: 50px;
+    width: 50px;
+    border: 2px solid rgb(86, 86, 189);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+#changecolorid1{
+    background-color: grey;
+}
+#changecolorid2{
+    background-color: rgb(99, 213, 247);
+}
+#changecolorid3{
+    background-color: rgb(243, 243, 243);
+}
+#changecolorid4{
+    background-color: rgb(252, 233, 136);
+}
