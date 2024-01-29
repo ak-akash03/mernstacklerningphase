@@ -1,8 +1,0 @@
-{
-    "name": "akash",
-    "score": 25,
-    "isAdmin": false,
-    "license": null,
-    "array": [1, 2, 3, 4, 5],
-    "object": { "akash": "akash01", "sagar": "sagar01", "ak": "ak01" }
-}
