@@ -37,13 +37,21 @@ npm is the standerd package manager for node.js
 
 
 npm install        install all the dependencies in your project
+
 npm install <foo>  add the <foo> dependency to your project
+
 npm test           run this project's tests
+
 npm run <foo>      run the script named <foo>
+
 npm <command> -h   quick help on <command>
+
 npm -l             display usage info for all commands
+
 npm help <term>    search for help on <term> (in a browser)
+
 npm help npm       more involved overview (in a browser)
+
 
 All commands:
 
