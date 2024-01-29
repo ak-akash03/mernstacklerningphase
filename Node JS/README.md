@@ -17,3 +17,10 @@ And Check Version
 ### process.argv
 - returns an array containing the command-line arguments passed when the node.js process was launched.
 
+# Module.exports
+
+### require()
+- a build-in function to include external modules that exist in separate files.
+
+### module.exports
+- a special object
