@@ -16,6 +16,11 @@
 //         console.log(args[i]);
 // }
 
-const somevalue = require("./math")
+// const somevalue = require("./math")
 
-console.log(somevalue);
+// console.log(somevalue);
+
+const fruits = require("./Fruits")
+
+console.log(fruits);
+console.log(fruits[1].color);

@@ -24,3 +24,12 @@ And Check Version
 
 ### module.exports
 - a special object
+
+## index.js
+- is entry filed (starter point : )
+
+
+# NPM (node package manager)
+
+npm is the standerd package manager for node.js
+
