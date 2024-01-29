@@ -1,5 +1,9 @@
 # Node Js - Demo
 
+## What Is Node Js
+Node.js is an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside of a browser. It is built on Chrome's V8 JavaScript engine and uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js is commonly used for developing server-side applications, but it can also be used for developing desktop and mobile applications.
+
+
 Javascript Runtime Environment
 it is used for server side programming.
 
