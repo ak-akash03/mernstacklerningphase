@@ -69,3 +69,4 @@ All commands:
     search, set, shrinkwrap, star, stars, start, stop, team,
     test, token, uninstall, unpublish, unstar, update, version,
     view, whoami
+    
